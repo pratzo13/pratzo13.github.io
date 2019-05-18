@@ -1,3 +1,3 @@
 # Author website
 
-This codebase powers the website (http://srivastavaprateek.com)
+This codebase powers the website http://srivastavaprateek.com
