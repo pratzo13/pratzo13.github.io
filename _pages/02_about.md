@@ -6,9 +6,8 @@ permalink: /about/
 
 ![image alt >](/assets/me.jpg){:class="img-responsive"}{:height="300px" width="200px"}
 
-Prateek Srivastava is a software developer living in Bangalore, who likes writing fiction and fantasy. He draws inspiration from visiting new places and meeting new people, and weaves them into his stories. He is also a foosball, table tennis and nap enthusiast.
+Prateek Srivastava was born on the 13th of January 1990 in Gorakhpur, UP (India). He spent most of his childhood living in different parts of the country because of his father’s moving job. Meeting new people and experiencing different cultures helped him foster a curious and imaginative mind.
 
-He grew up reading fiction novels by authors like Jeffrey Archer, JK Rowling, Christopher Paolini, and a few one hit authors as well. Lately, he moved to the fantasy genre, and enjoyed it immensely.
+As a child, his sister cultivated in him the love for books and reading. He grew up reading fiction novels by authors like Jeffrey Archer, JK Rowling and Christopher Paolini, to name a few. Some time later, the fantasy genre caught his interest and he has been in love with it ever since.
 
-He had the Divinity story in mind for a while, and finally took some time off to write it to completion. While he enjoys his work as a software developer, he enjoys writing more. Extending his imagination simply feels more fulfilling to him. He is hopeful that his first book would help him open the gateway, allowing him to write many more stories.
-
+Prateek graduated in Information Technology and works as a Software Developer in one of India’s biggest IT companies. The story of Divinity had been stewing in his mind for a while, and he finally chalked out some time to tell the story to the world. He hopes that Divinity opens the doors to a much richer, homegrown genre of fantasy novels in India.
