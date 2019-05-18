@@ -1,6 +1,6 @@
 ---
-title: This is my title
+title: About the Author
 layout: post
 ---
 
-Here is my page.
+Hello world!
