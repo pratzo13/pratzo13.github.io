@@ -1,5 +1,6 @@
 ---
 layout: page
+indexName: About
 title: About
 permalink: /about/
 ---

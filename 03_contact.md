@@ -1,7 +1,8 @@
 ---
 layout: page
+indexName: Contact
 title: Contact
 permalink: /contact/
 ---
 
-Best way to contact me is through <a href="https://www.facebook.com/prateekwritesstories" target="_blank"> facebook.
+Best way to contact me is through <a href="mailto:contact@srivastavaprateek.com">email</a>
