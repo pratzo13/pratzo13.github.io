@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Prateek Srivastava
 tagline:
-description:      Fantasy Author
+description:      Author
 baseurl:          /
 
 gems:             [jekyll-gist]
