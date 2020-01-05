@@ -5,4 +5,4 @@ title: Contact
 permalink: /contact/
 ---
 
-Best way to contact Prateek is through <a href="mailto:contact@srivastavaprateek.com">email</a>.
+Email: <a href="mailto:contact@srivastavaprateek.com">contact@srivastavaprateek.com</a>
