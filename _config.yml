@@ -11,8 +11,6 @@ tagline:
 description:      Fantasy Author
 baseurl:          /
 
-paginate:         5
-
 gems:             [jekyll-gist]
 
 plugins:
