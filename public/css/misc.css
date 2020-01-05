@@ -27,7 +27,7 @@
   padding-left: 0.2rem;
   font-size: 18px;
   padding-bottom: 0.3rem;
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
 }
 
 input,
@@ -38,7 +38,7 @@ textarea {
 	border-radius: 10px;
 	box-shadow: 1px 1px 3px #eee inset;
 	color: #999;
-	font-family: "PT Sans", Helvetica, Arial, sans-serif;
+	font-family: Helvetica, Arial, sans-serif;
 	font-size: 16px;
 	padding: 12px;
 }
@@ -53,7 +53,7 @@ input[type="submit"],
 	box-shadow: none;
 	color: #fff;
 	cursor: pointer;
-	font-family: "PT Sans", Helvetica, Arial, sans-serif;
+	font-family: Helvetica, Arial, sans-serif;
 	font-size: 15px;
 	font-weight: 400;
 	letter-spacing: 1px;
