@@ -110,7 +110,7 @@ a.sidebar-nav-item:focus {
     position: absolute;
     right:  1rem;
     left:   1rem;
-    top: calc(10%);
+    top: calc(6%);
   }
 }
 
