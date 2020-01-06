@@ -19,11 +19,12 @@
 
 .signup-form {
   position: fixed;
-  bottom: calc(2%);
+  left: 50%;
+  bottom: 0;
 }
 
 .common-text {
-  text-align: center;
+  text-align: left;
   padding-left: 0.2rem;
   font-size: 18px;
   padding-bottom: 0.3rem;
