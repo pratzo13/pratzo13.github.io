@@ -6,8 +6,6 @@ permalink: /divinity/
 ---
 
 
-&nbsp;
-&nbsp;
 <p>
   <b>His own dreams had become a prison from which there was no escape.</b>
 </p>
