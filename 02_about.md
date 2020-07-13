@@ -12,5 +12,5 @@ As a child, his sister cultivated the love for books and reading in him. He grew
 
 Prateek graduated in Information Technology and works as a Software Developer in one of India’s biggest IT companies. The story of Divinity had been stewing in his mind for a while, and he finally chalked out some time to tell the world the story. He hopes that Divinity opens the doors to a much richer, homegrown genre of fantasy novels in India.
 
-<br/><br/><br/>
+<br/><br/>
 <a href="https://forms.gle/Fg5LRrEcnFLtzSu2A" target="_blank">Contact the Author</a>

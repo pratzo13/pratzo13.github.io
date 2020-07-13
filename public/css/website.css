@@ -13,3 +13,14 @@
   left:50%;
   transform: translate(-50%,-50%)
 }
+
+.cropped {
+    width: 120px; /* width of container */
+    height: 30px; /* height of container */
+    overflow: hidden;
+    border-radius: 20%
+}
+
+.cropped img {
+    margin: -47px 0px 0px 0px;
+}
