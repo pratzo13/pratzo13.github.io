@@ -20,7 +20,7 @@ permalink: /divinity/
 <p>
   With countless lives at stake, Avi must decide which threat to face - the serial killer responsible for the numerous deaths, or the rogue entity that is wreaking havoc in the mysterious dream world.
 </p>
-<br/>
+
 <div class="cropped">
 <a href="https://amzn.to/32eMG2y" target="_blank">
   <img src="/media/buynow.png" alt=""/>
