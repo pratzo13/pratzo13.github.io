@@ -5,6 +5,12 @@ title: Divinity
 permalink: /divinity/
 ---
 
+<div class="divinity-banner">
+  <a href="https://amzn.to/32eMG2y" target="_blank">
+    <img src="/media/divinity-banner.jpg" alt=""/>
+  </a>
+</div>
+
 <p>
   <b>His own dreams had become a prison from which there was no escape.</b>
 </p>

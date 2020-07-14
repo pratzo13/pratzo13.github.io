@@ -15,12 +15,20 @@
 }
 
 .cropped {
-    width: 120px; /* width of container */
-    height: 30px; /* height of container */
-    overflow: hidden;
-    border-radius: 20%
+  width: 120px;
+  height: 30px;
+  overflow: hidden;
+  border-radius: 20%
 }
 
 .cropped img {
-    margin: -47px 0px 0px 0px;
+  margin: -47px 0px 0px 0px;
+}
+
+.divinity-banner {
+  width: auto;
+  text-align: left;
+  padding: 0 6em 2em 6em;
+  -webkit-filter: drop-shadow(5px 5px 5px #222);
+  filter: drop-shadow(5px 5px 5px #222);
 }
