@@ -5,7 +5,7 @@ title: Divinity
 permalink: /divinity/
 ---
 
-<div class="divinity-banner">
+<div class="divinity-banner" title="© Rumor Books India">
   <a href="https://amzn.to/32eMG2y" target="_blank">
     <img src="/media/divinity-banner.jpg" alt=""/>
   </a>
