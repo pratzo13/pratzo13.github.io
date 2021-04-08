@@ -7,7 +7,7 @@ permalink: /divinity/
 
 <div class="divinity-banner" title="© Rumor Books India">
   <a href="https://www.amazon.in/dp/1513656112/" target="_blank">
-    <img src="/media/divinity-banner.jpg" alt=""/>
+    <img src="/media/divinity-available-banner.jpg" alt=""/>
   </a>
 </div>
 
