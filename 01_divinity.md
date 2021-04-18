@@ -32,3 +32,8 @@ permalink: /divinity/
   <img src="/media/buynow.png" alt=""/>
 </a>
 </div>
+<div class="fk-cropped">
+<a href="https://www.flipkart.com/divinity/p/itm717c831414b62?pid=9781513656113&lid=LSTBOK978151365611356BJCG" target="_blank">
+  <img src="/media/flipkart-logo.png" alt=""/>
+</a>
+</div>

@@ -25,6 +25,17 @@
   margin: -47px 0px 0px 0px;
 }
 
+.fk-cropped {
+  width: 115px;
+  height: 30px;
+  overflow: hidden;
+  margin-top: 20px
+}
+
+.fk-cropped img {
+  margin: 0px 15px 0px 3px;
+}
+
 .divinity-banner {
   width: auto;
   text-align: left;
